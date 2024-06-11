@@ -25,6 +25,10 @@
      margin-top: 30px;
 }
 
+.nav{
+    position: sticky;
+}
+
 .btn-one{
     border: 1px solid  #E5BF4A;
     background-color: #E5BF4A;
