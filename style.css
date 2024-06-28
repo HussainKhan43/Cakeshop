@@ -27,6 +27,7 @@
 
 .nav{
     position: sticky;
+    top: 0px;
 }
 
 .btn-one{
@@ -55,6 +56,7 @@ a{
     border: 1px solid black;
     height: 520px;
     max-width: 100vw;
+    font-family: "Poiret One", cursive;
     /* background-image: url(images/h2_hero1.jpg.webp);
     background-size: cover;
     background-repeat: no-repeat;
@@ -82,7 +84,7 @@ a{
     padding-top: 100px;
     font-size: 25px;
     font-weight: lighter;
-
+    font-family: "Poiret One", cursive;
 }
 
 .seperation{
@@ -317,4 +319,13 @@ button:hover{
 }
 
 
+#btn-two:hover{
+    background-color: black;
+    color: #E5BF4A;
+}
+
+#btn-three:hover{
+    background-color: black;
+    color: #E5BF4A;
+}
 
