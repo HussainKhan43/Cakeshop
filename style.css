@@ -460,10 +460,20 @@ button:hover {
     }
     img{
         width: 110vw;
+        margin-left: 15px;
     }
 
     .page4 img{
         width: 25vw;
         height: 10vh;
+    }
+    .divider{
+        margin-top: 80px;
+    }
+    .divider h1{
+        font-size: 45px;
+    }
+    .divider button{
+        padding: 5px;
     }
 }
